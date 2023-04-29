@@ -6,7 +6,7 @@
 @extends('layouts.auth')
 
 @section('title')
-    Forgot Password
+    Lupa Password
 @endsection
 
 @section('content')
